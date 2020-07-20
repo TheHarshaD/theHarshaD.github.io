@@ -1,5 +1,5 @@
 name: Harsha Dantuluri 
 markdown: kramdown
-permalink: /Blog/:year/:month/:day/:title
+permalink: /blog/:year/:month/:day/:title
 
 theme: jekyll-theme-slate
