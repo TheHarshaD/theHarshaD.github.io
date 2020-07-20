@@ -44,3 +44,9 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.resume{
+    width: 500px;
+    margin-left: auto ;
+    margin-right: auto ;
+}
